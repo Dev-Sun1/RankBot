@@ -192,7 +192,7 @@ async def RankLeaderboard(ctx):
     
 
 
-bot.run("ODc2NTIxNTI1NjUyNjE5NDA0.YRlSSA.K0I24WK67WvfW5sP99YuP_Ji12o")    
+bot.run("Your token here")    
 
 
     
